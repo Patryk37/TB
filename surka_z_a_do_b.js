@@ -4,8 +4,8 @@
 
 //////////////////////////////////////////////////////////
 
-var id_send_group = 100977; //grupa z której są wysyłane surowce
-var id_target_group = 77511; //grupa do której trafiają surowce
+var id_send_group = -1; //grupa z której są wysyłane surowce
+var id_target_group = -1; //grupa do której trafiają surowce
 
 //wejsc w produkcje np, wubrac dana grupe i się zmienia Link
 //https://pl171.plemiona.pl/game.php?village=3267&screen=overview_villages&mode=prod&group=100977&
